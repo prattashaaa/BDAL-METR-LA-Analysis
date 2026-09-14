@@ -1,0 +1,56 @@
+METR-LA Traffic Dataset
+=======================
+
+Dataset Name:
+METR-LA Traffic Dataset - 1 Million Records
+
+Dataset File:
+METR-LA_1million.csv
+
+Number of Records:
+1,000,000
+
+Number of Attributes:
+3
+
+Attributes:
+1. Sensor_ID
+2. Timestamp
+3. Traffic_Speed
+
+Attribute Description:
+
+Sensor_ID:
+Unique identifier of the traffic sensor that recorded the measurement.
+
+Timestamp:
+Date and time at which the traffic measurement was recorded.
+
+Traffic_Speed:
+Recorded traffic speed at the corresponding sensor and timestamp.
+
+Dataset Time Period:
+March 1, 2012 to June 27, 2012
+
+Measurement Interval:
+5 minutes
+
+Number of Sensors:
+30
+
+Missing Values:
+0
+
+Traffic Speed Statistics:
+Minimum Traffic Speed: 0.00
+Maximum Traffic Speed: 70.00
+Average Traffic Speed: 52.4657
+Median Traffic Speed: 61.00
+
+Project Technologies:
+- Apache Hadoop
+- Hadoop MapReduce
+- Apache Pig
+- Java
+- HDFS
+- GitHub
